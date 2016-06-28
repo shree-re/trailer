@@ -1,0 +1,71 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.one{
+  height: 185vh;
+  width: 100%;
+  padding: 0px;
+  background: image-url('stewie.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.two{
+  height: 100vh;
+  width: 100%;
+  padding: 0px;
+  background: image-url('hminion.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.three{
+  height: 100vh;
+  width: 100%;
+  padding: 0px;
+  background: image-url('s2.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.four{
+  height: 100vh;
+  width: 100%;
+  padding: 0px;
+  background: image-url('4.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.transparent-background{
+  height: 100%;
+  width: 100%;
+  background: rgba(51,51,51,0.7);
+}
+
+.first{
+	width: 40%;
+	margin-left: 5%;
+	height: 33%;
+}
+
+.title{
+	font-weight: 600;
+	font-size: 2.5em;
+}
+.para{
+	font-weight: 600;
+	font-size: 1.5em;
+}
+
+.para2{
+	font-weight: 600;
+	font-size: 1.5em;	
+	color: white;
+}
